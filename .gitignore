@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+.DS_Store
+
+# Contains Secret Keys:
+YoutubeConfig.json
+
+# Temp file to store youtube vids:
+YoutubeVideos.json
+
+# Don't save these crap vids:
+YoutubeVids/
