@@ -133,6 +133,7 @@ dmypy.json
 
 # Contains Secret Keys:
 YoutubeConfig.json
+praw.ini
 
 # Temp file to store youtube vids:
 YoutubeVideos.json
